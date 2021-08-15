@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Animesh
 - 👀 I’m interested in Developing Apps.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning how to live a life.
 
 
 <!---
