@@ -3,12 +3,8 @@
 - 👀 I’m interested in Developing Apps.
 - ⚡ I have experienced in the domain of Mobile Application Development using Flutter & Dart.
 - 💼 Currently working as Flutter Developer at Swadesh Software Pvt. Ltd.
--- 📌 My first application available in playstore is 'Virupaaksh' [E-Commerce Application {https://play.google.com/store/apps/details?id=com.virupaaksh&hl=en}]
--- 📌 My second application available in playstore is 'Choice Foundation' [Informative Application {https://play.google.com/store/apps/details?id=com.foundation_choice&hl=en}]
+- 📌 My first application available in playstore is 'Virupaaksh' 
+- 📲 It is an E-Commerce Application {https://play.google.com/store/apps/details?id=com.virupaaksh&hl=en}
+- 📌 My second application available in playstore is 'Choice Foundation' 
+- 📲 It is an Informative Application {https://play.google.com/store/apps/details?id=com.foundation_choice&hl=en}]
 - 🌱 I’m currently learning how to live a life.
-
-
-<!---
-animeshrick/animeshrick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
