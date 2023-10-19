@@ -1,5 +1,36 @@
 <h3><a id="user-content-hey-there-" class="anchor" aria-hidden="true" href="#hey-there-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi, I’m Animesh <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"></a></h3>
 
+
+![Image description here](https://raw.githubusercontent.com/BharathKumarS/BharathKumarS/master/Bharath-Img_Intro.gif "Welcome to my GitHub")
+## I'm an Aspiring Data Scientist with a strong analytical background, and 4+ years of experience using Data Engineering, Data Analytics, Data Science, and Agile Software Development skills, I build data-driven solutions. #The_Bharatha <br>
+
+## I enjoy writing technical tutorial blog articles, Participating in Coding contests, Solving Python, and SQL challenges on LeetCode and HackerRank. <br>
+
+> ## Python, SQL, Hadoop, Scala, GitHub, and AWS but not limited to are a few of my preferred tech stack to learn, explore, practice Machine Learning. <br> <br>
+
+<table class='tg'>
+  <thead>
+    <tr>
+      <th class='tg-0pky'>
+        <div class='center'>
+          <blockquote class="twitter-tweet" data-partner="tweetdeck">
+          <p lang="en" dir="ltr">Let me interpret ’Karma.’ in terms of Machine Learning. It is ”Garbage In-Garbage Out” 
+          <a href="https://twitter.com/hashtag/The_Bharatha?src=hash&amp;ref_src=twsrc%5Etfw">#The_Bharatha</a> 
+          <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>
+          </p>&mdash; Bharath-Kumar Shivakumar
+          <a href="https://twitter.com/The_Bharatha/status/1280404901659652096?ref_src=twsrc%5Etfw"> @The_Bharatha</a>
+          </blockquote> <!-- <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+        </div>
+      </th>
+      <th class='tg-0pky'>
+        <h2> Feel free to explore my repositories! </h2>
+      <th>
+    </tr>
+  </thead>
+</table>
+
+
+
 - 👀 I’m interested in Developing Apps.
 - ⚡ I have experienced in the domain of Mobile Application Development using Flutter & Dart.
 - 💼 Currently working as Flutter Developer at Swadesh Software Pvt. Ltd.
