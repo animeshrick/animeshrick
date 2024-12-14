@@ -57,5 +57,6 @@
 - 🌱 I’m currently learning how to live a life.
 
 Experienced Flutter developer with a passion for building beautiful, fast, and responsive applications. Skilled in designing and developing user-friendly interfaces, API integrations, and third-party libraries. Proven track record of delivering high-quality applications on Android and iOS platforms. Adept at collaborating with clients to understand their needs and exceed their expectations. Let's discuss how I can help you achieve your goals!
-!-->
+
 ![code](https://github.com/animeshrick/animeshrick/assets/43946793/e4d9ea51-f144-4a5e-a590-effc9389ae55)
+!-->
